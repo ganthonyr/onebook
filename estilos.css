@@ -1,0 +1,16 @@
+/**ESTILOS ONE BOOK**/
+
+.d-lg-block { /*para que el titulo no aparezca en el index*/
+  display: none !important;
+}
+
+#preface {
+  margin-top: -1em;
+}
+
+.quarto-cover-image{ /*para acomodar el cover*/
+  margin-top: 3em;
+  box-shadow: 0 .5rem 1rem rgba(0,0,0,.10);
+  border: 1px solid black;
+  margin-top: 70px;
+}

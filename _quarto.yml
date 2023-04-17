@@ -1,0 +1,37 @@
+project:
+  type: book
+  output-dir: _book
+
+book:
+  title: "ONE <br> *Cuaderno de apuntes*"
+  reader-mode: true
+  # author: "Anthony Romero-Cerdán"
+  # date: "21/3/2023"
+  page-footer:
+    # left: |
+    #   *ONE Cuaderno de apuntes* es desarrollado por Anthony Romero Cerdán.
+    right: |
+      Este documento fue elaborado con <a href="https://quarto.org/">*Quarto*</a> & <a href="https://bookdown.org/">*Bookdown*</a>.
+  cover-image: imagenes/cover.png
+  favicon: imagenes/favicon.png
+  # site-url: https://r4ds.hadley.nz/
+  # repo-url: https://github.com/hadley/r4ds/
+
+  chapters:
+    - index.qmd
+    # - grade-guidelines.qmd
+    # - grade-resources.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+    css: estilos.css
+  pdf:
+    documentclass: scrreprt
+link-external-newwindow: true
+
+
+
