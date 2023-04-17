@@ -8,8 +8,8 @@ book:
   # author: "Anthony Romero-Cerdán"
   # date: "21/3/2023"
   page-footer:
-    # left: |
-    #   *ONE Cuaderno de apuntes* es desarrollado por Anthony Romero Cerdán.
+    left: |
+      Licensed under the [CC BY-NC-ND 3.0](https://creativecommons.org/license/by-nc-nd/3.0/us/) License.
     right: |
       Este documento fue elaborado con <a href="https://quarto.org/">*Quarto*</a> & <a href="https://bookdown.org/">*Bookdown*</a>.
   cover-image: imagenes/cover.png

@@ -4,6 +4,34 @@
     "href": "index.html",
     "title": "ONE  Cuaderno de apuntes",
     "section": "",
-    "text": "Preface\nThis is a Quarto book.\nTo learn more about Quarto books visit https://quarto.org/docs/books.\n\n1 + 1\n\n[1] 2"
+    "text": "Esta es la website de “ORACLE NEXT EDUCATION Cuaderno de resumen y apuntes” un libro work-in-progress en versión web. Este pequeño, pero amigable, documento será mi bitácora a lo largo del programa ofrecido por Oracle y Alura latam enfocado en desarrollo de habilidades en programación. Este programa es gratuito, sin embargo, hay un proceso de selección previo para poder formar parte y obtener acceso a la batería de cursos que ofrecen. Tuve la grandiosa oportunidad de ser seleccionado en el programa, así que aquí encontrarás un alcance sobre mi avance…quizá te sirva como guía para aprender o reforzar algún concepto ;).\nEste libro es desarrollado con R, Quarto y el paquete Bookdown. Puedes encontrar el código fuente en mi perfil de github. Además, es de libre acceso… y siempre lo será :D\n“ORACLE NEXT EDUCATION Cuaderno de resumen y apuntes” utiliza un Código de conducta del contribuidor estándar. Si deseas contribuir con este libro, estás aceptando cumplir con sus términos."
+  },
+  {
+    "objectID": "index.html#acknowledgements",
+    "href": "index.html#acknowledgements",
+    "title": "ONE  Cuaderno de apuntes",
+    "section": "Acknowledgements",
+    "text": "Acknowledgements\n“GRADE Guidelines Repository in a bookdown” is hosted by https://www.netlify.com as part of their support of open source software and communities."
+  },
+  {
+    "objectID": "index.html#disclaimer",
+    "href": "index.html#disclaimer",
+    "title": "ONE  Cuaderno de apuntes",
+    "section": "Disclaimer",
+    "text": "Disclaimer\nThis publication has as its sole purpose, to gather and disseminate the information available on this Evidence Based Medicine methodology."
+  },
+  {
+    "objectID": "index.html#reconocimientos",
+    "href": "index.html#reconocimientos",
+    "title": "ONE  Cuaderno de apuntes",
+    "section": "Reconocimientos",
+    "text": "Reconocimientos\nAgradecimiento especial al equipo de Oracle y Alura latam por permitirme ser parte de este programa y por las herramientas brindadas durante el mismo.\n“ORACLE NEXT EDUCATION Cuaderno de resumen y apuntes” está alojado por https://www.netlify.com como parte de su apoyo a las comunidades y el software de código abierto."
+  },
+  {
+    "objectID": "index.html#descargo",
+    "href": "index.html#descargo",
+    "title": "ONE  Cuaderno de apuntes",
+    "section": "Descargo",
+    "text": "Descargo\nEsta publicación tiene como única finalidad compartir el conocimiento obtenido a partir del programa ONE de Oracle y Alura latam y no pretender apropiarse del material y autoría respectivos. Mi único fin es compartir información útil :)"
   }
 ]
